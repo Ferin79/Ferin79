@@ -1,6 +1,6 @@
 ### Hi there, I'm Ferin Patel 👋
 
-#### A passionate Full Stack developer from India
+## A passionate Full Stack developer from India
 
 - 🔭 I’m currently working on a [IELTS PREP APP][website]!
 - 🌱 I’m currently learning GraphQL & TypeScript.
