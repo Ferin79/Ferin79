@@ -2,7 +2,7 @@
 
 ## A passionate Full Stack developer from India
 
-- 🔭 I’m currently working on a [IELTS PREP APP][website]!
+- 🔭 I’m currently working on a [IELTS PREP APP][project]!
 - 🌱 I’m currently learning GraphQL & TypeScript.
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -60,3 +60,4 @@
 [jsplaylist]: https://ferin79.github.io/Portfolio/
 [cssplaylist]: https://ferin79.github.io/Portfolio/
 [reactplaylist]: https://ferin79.github.io/Portfolio/
+[project]: https://github.com/Ferin79/IELTS-PREP
