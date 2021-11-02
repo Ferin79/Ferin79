@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Docker Gen](https://github.com/Ferin79/docker-gen)
 
-- 🌱 I’m currently learning **GraphQL, Django**
+- 🌱 I’m currently learning **GoLang**
 
 - 👨‍💻 All of my projects are available at [https://ferin79.github.io/Portfolio/#/](https://ferin79.github.io/Portfolio/#/)
 
-- 💬 Ask me about **react, nodejs, PostgreSQL**
+- 💬 Ask me about **React, NodeJS, GraphQL, Database**
 
 - 📫 How to reach me **ferinpatel79@gmail.com**
 
