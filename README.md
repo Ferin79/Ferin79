@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ferinpatel79@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://ferin79.github.io/Portfolio/static/media/resume.cd53fa61.pdf)
+- 📄 Know about my experiences [resume](https://ferin79.github.io/Portfolio/static/media/resume.cd53fa61.pdf)
 
 - ⚡ Fun fact **Love to Watch YouTube Videos**
 
