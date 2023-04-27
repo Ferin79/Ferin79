@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferin79&show_icons=true&locale=en" alt="ferin79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferin79&" alt="ferin79" /></p>
-
-<p>Hello World</p>
